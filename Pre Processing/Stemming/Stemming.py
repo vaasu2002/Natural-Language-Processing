@@ -11,3 +11,29 @@ def s_words(text):
   
 text = 'Data is the new revolution in the World, in a day one individual would generate terabytes of data.'
 s_words(text)
+
+
+
+
+''' OUTPUT:-
+['data',
+ 'is',
+ 'the',
+ 'new',
+ 'revolut',
+ 'in',
+ 'the',
+ 'world',
+ ',',
+ 'in',
+ 'a',
+ 'day',
+ 'one',
+ 'individu',
+ 'would',
+ 'gener',
+ 'terabyt',
+ 'of',
+ 'data',
+ '.']
+'''
