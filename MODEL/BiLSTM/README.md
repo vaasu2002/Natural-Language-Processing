@@ -16,5 +16,4 @@ The thing involved in Bidirectional Recurrent neural networks(RNN) is preety sta
 
 In speech recognition domain a context of whole utterance is used to explain what is being said rather than the linear interpretation thus the input squence is feeded bi-directionally. To be accurate, time steps in the input sequence are processed one at a time, but the network steps through the sequence in both direction at the same time.
 
-
-![Bi LSTM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Fmethod%2Fbilstm&psig=AOvVaw0qpfSxo5gyLaT-nPYHdPbv&ust=1649666379781000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODmmqiMifcCFQAAAAAdAAAAABAD)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Fmethod%2Fbilstm&psig=AOvVaw0qpfSxo5gyLaT-nPYHdPbv&ust=1649666379781000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODmmqiMifcCFQAAAAAdAAAAABAD">
