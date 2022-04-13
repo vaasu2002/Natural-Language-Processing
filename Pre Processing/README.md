@@ -10,6 +10,7 @@ with open('/content/drive/MyDrive/NLP/text.txt', 'r') as f:
 ```ruby
 # IMPORT LIBRARIES
 from string import punctuation
+import csv
 import nltk
 nltk.download("stopwords")
 from nltk.corpus import stopwords
@@ -43,3 +44,4 @@ def parse_data_from_file(filename):
     
 sentences, labels = parse_data_from_file("/kaggle/input/learn-ai-bbc/BBC News Train.csv")    
 ```
+------------------------------------------------------------------------------
