@@ -5,8 +5,11 @@
 
 | **BOOK** | **Completion** | 
 | ----- | -----|
-| 1. [**LSTM with python**](https://drive.google.com/file/d/16zxePmb3TWIxIevh2gkeaTbO-ZEVRuKi/view?usp=sharing) | No |
+| 1. [**LSTM With Python**](https://drive.google.com/file/d/16zxePmb3TWIxIevh2gkeaTbO-ZEVRuKi/view?usp=sharing) | No |
 
 
 
 
+| **Certification** | **Platform** | 
+| ----- | -----|
+| 1. [**DeepLearning.AI Natural Language Processing Tensorflow**](https://www.coursera.org/account/accomplishments/certificate/RXGKSDTK9VCW) | [**DeepLearning.ai**](https://www.deeplearning.ai/) |
