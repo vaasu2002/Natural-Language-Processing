@@ -3,7 +3,7 @@
 
 An insincere question is defined as a question intended to make a statement rather than look for helpful answers. Some characteristics that can signify that a question is insincere:
 
-*   Has a non-neutral tone
+**   Has a non-neutral tone
 - Has an exaggerated tone to underscore a point about a group of people
 - Is rhetorical and meant to imply a statement about a group of people
 *  Is disparaging or inflammatory
