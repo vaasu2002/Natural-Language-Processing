@@ -17,4 +17,4 @@
 
 | **Day** | **Topic** | 
 | ----- | -----|
-| Day 1 | [**Word2vec Google News 300**](https://colab.research.google.com/drive/1MXwLGerTJB2WfxQT_kySIlqLWEfO-UtO?usp=sharing) | 
+| Day 1 | [**Word2vec Google News 300**](https://github.com/vaasu2002/Natural-Language-Processing/blob/main/Notebooks/Word2vec_Google_News_300.ipynb) | 
